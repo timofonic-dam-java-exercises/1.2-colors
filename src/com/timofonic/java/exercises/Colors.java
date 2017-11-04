@@ -1,4 +1,4 @@
-package com.timofonic.colors;
+package com.timofonic.java.exercises;
 
 /**
  * Text colouring:
